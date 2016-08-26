@@ -1,0 +1,27 @@
+{
+  "name": "androidimageresizer",
+  "version": "1.0.0",
+  "description": "Resizes images to different dpis for an android app",
+  "main": "app.js",
+  "dependencies": {
+    "sharp": "^0.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniltallam/AndroidImageResizer.git"
+  },
+  "keywords": [
+    "android",
+    "imageresize"
+  ],
+  "author": "Anil Tallam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniltallam/AndroidImageResizer/issues"
+  },
+  "homepage": "https://github.com/aniltallam/AndroidImageResizer#readme"
+}
